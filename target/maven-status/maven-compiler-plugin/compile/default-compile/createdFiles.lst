@@ -1,0 +1,7 @@
+org\esreport\GlobalData.class
+org\esreport\ESReportPluginRestHandler.class
+org\esreport\MailAPI.class
+org\esreport\ESReportPlugin.class
+org\esreport\ESReport.class
+org\esreport\ESReportMain.class
+org\esreport\ESReportPluginRestModule.class
