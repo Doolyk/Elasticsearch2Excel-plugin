@@ -1,2 +1,4 @@
 *.class
 target/classes/META-INF/maven/app/es-report-plugin/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.class
